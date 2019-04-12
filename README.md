@@ -10,6 +10,8 @@
 - JDK 11 
 - Kotlin
 - Spring Boot 2.2.0.M1
-- Junit 5 
+- Junit 5
+ 
 ## TODO
 - Start script
+- Document github config
