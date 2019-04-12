@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class KotlinApiTestApplication
 
 fun main(args: Array<String>) {
-	runApplication<KotlinApiTestApplication>(*args)
+    runApplication<KotlinApiTestApplication>(*args)
 }
