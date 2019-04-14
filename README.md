@@ -14,4 +14,3 @@
  
 ## TODO
 - Start script
-- Document github config
